@@ -1,2 +1,15 @@
 # Car-Hub
-A colllection of cars and car adding option for authenticated users
+Car Hub is a Django-based web application designed for managing information about electric and gas cars. Whether you're a car enthusiast, manufacturer, or someone interested in exploring details about electric and gas-powered vehicles, this app caters to your needs.
+
+Features:
+
+View details of electric and gas cars
+Add new cars to the database
+User authentication for personalized experiences
+
+Getting Started
+Clone the repository.
+Set up your Django environment.
+Run the application.
+
+Explore the world of electric and gas-powered automobiles with Car Factory! 🚗✨
